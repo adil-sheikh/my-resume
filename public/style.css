@@ -1,0 +1,26 @@
+.container {
+    background-color: #BDBDBD;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* #title {
+    display: inline;
+} */
+h1 {
+    margin-bottom: 0;
+    margin-left: 10px;
+    /* display: inline; */
+}
+#designation {
+    margin-top: 0;
+    margin-left: 10px;
+    /* display: inline; */
+}
+svg {
+    height: 25px;
+    width: 25px;
+}
+#contact {
+    margin-right: 10px;
+}
